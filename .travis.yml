@@ -41,6 +41,7 @@ addons:
     - lz4
     - mariadb
     - sqlite3
+    - postgresql@11
     update: true
   mariadb: '10.0'
 
